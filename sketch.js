@@ -82,7 +82,7 @@ console.log(message);
 }
 function draw() {
   
-  background(255);
+  background("Yellow");
   //displaying score
   text("Score: "+ score, 500,50);
   
